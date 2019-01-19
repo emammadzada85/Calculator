@@ -21,4 +21,5 @@ public class ClassMethod {
         return num3 / num4;
     }
 
+
 }
