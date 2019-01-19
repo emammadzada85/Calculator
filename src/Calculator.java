@@ -7,7 +7,7 @@ public class Calculator {
         
         System.out.println("tarik");
                 System.out.println("Elshad");
-System.out.println("Shahin");
+        System.out.println("Shahin");
 
         
         int num = scan.nextInt(); 
