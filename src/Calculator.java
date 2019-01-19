@@ -1,6 +1,8 @@
 public class Calculator {
 
     public static void main(String[] args) {
+        
+        Scanner scan = new Scanner (System.in); 
 
         int num = calcultor(500, 250, '+');
         System.out.println(num);
