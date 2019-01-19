@@ -20,5 +20,10 @@ public class ClassMethod {
 
         return num3 / num4;
     }
+    
+     public static double minus(double num5, double num6) {
+
+        return num5 / num6;
+    }
 
 }
