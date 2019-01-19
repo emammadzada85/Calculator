@@ -1,9 +1,18 @@
 public class Calculator {
 
     public static void main(String[] args) {
+        
+        Scanner scan = new Scanner (System.in); 
+        System.out.println("gbgbgyby");
+        
+        int num = scan.nextInt(); 
+
 
         int num = calcultor(100, 50, '*');
 
+
+        int num = calcultor(500, 250, '+');
+        System.out.println(num);
 
     }
 
