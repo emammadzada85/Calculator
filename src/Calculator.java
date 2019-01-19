@@ -5,6 +5,9 @@ public class Calculator {
         Scanner scan = new Scanner (System.in); 
         System.out.println("gbgbgyby");
         
+        System.out.println("tarik");
+
+        
         int num = scan.nextInt(); 
 
 
