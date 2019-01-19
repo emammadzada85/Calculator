@@ -2,8 +2,9 @@ public class Calculator {
 
     public static void main(String[] args) {
 
-        int num = calcultor(100, 50, '+');
-        System.out.println(num);
+        int num = calcultor(100, 50, '*');
+
+
     }
 
     public static int calcultor(int x, int y, char operator){
