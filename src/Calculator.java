@@ -2,7 +2,7 @@ public class Calculator {
 
     public static void main(String[] args) {
 
-        int num = calcultor(100, 50, '/');
+        int num = calcultor(100, 50, '*');
         System.out.println(num);
     }
 
