@@ -6,6 +6,8 @@ public class Calculator {
         System.out.println("gbgbgyby");
         
         System.out.println("tarik");
+                System.out.println("Elshad");
+
 
         
         int num = scan.nextInt(); 
