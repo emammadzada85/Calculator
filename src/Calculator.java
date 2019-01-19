@@ -3,11 +3,9 @@ public class Calculator {
     public static void main(String[] args) {
         
         Scanner scan = new Scanner (System.in); 
-        System.out.println("gbgbgyby");
+        System.out.println("code changed");
         
-        System.out.println("tarik");
-                System.out.println("Elshad");
-        System.out.println("Shahin");
+        
 
         
         int num = scan.nextInt(); 
@@ -24,7 +22,7 @@ public class Calculator {
 
     public static int calcultor(int x, int y, char operator){
 
-        int result = 0;
+        int reSystem.out.printlnsult = 0;
 
         switch (operator){
             case '+':
