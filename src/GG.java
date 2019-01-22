@@ -1,5 +1,5 @@
 public class GG {
     public void add (){
-        System.out.println("fhskf");
+        System.out.println("Emil");
     }
 }
